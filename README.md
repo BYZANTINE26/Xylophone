@@ -88,6 +88,6 @@ Check [MainActivity.kt](https://github.com/BYZANTINE26/Xylophone/blob/master/app
 [clone](https://github.com/BYZANTINE26/Xylophone.git)
 
 # Screenshot
-<img src="https://user-images.githubusercontent.com/62672863/83907260-c58a8c80-a782-11ea-8160-3277b6e23bc7.jpg" width="299" height="600" />     <img src="https://user-images.githubusercontent.com/62672863/83907498-1f8b5200-a783-11ea-8630-8a8aee157ef6.jpg" width="299" height="600" />
+<img src="https://user-images.githubusercontent.com/62672863/83907260-c58a8c80-a782-11ea-8160-3277b6e23bc7.jpg" width="299" height="600" />                             <img src="https://user-images.githubusercontent.com/62672863/83907498-1f8b5200-a783-11ea-8630-8a8aee157ef6.jpg" width="299" height="600" />
 
              Xylophone                                 On Click   
