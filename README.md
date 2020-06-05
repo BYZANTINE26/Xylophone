@@ -81,10 +81,13 @@ Toasty.normal(this, "", Toast.LENGTH_SHORT, ContextCompat.getDrawable(this, R.dr
 
 # Define click events
 
-Check [a relative link](MainActivity.kt)
+Check [MainActivity.kt](https://github.com/BYZANTINE26/Xylophone/blob/master/app/src/main/java/com/example/xylophone/MainActivity.kt)
 
 # Clone
 
-[a link](https://github.com/BYZANTINE26/Xylophone.git)
+[clone](https://github.com/BYZANTINE26/Xylophone.git)
 
 # Screenshot
+![xylophone](https://user-images.githubusercontent.com/62672863/83907260-c58a8c80-a782-11ea-8160-3277b6e23bc7.jpg)      ![on click](https://user-images.githubusercontent.com/62672863/83907498-1f8b5200-a783-11ea-8630-8a8aee157ef6.jpg)
+
+   Xylophone                             On Click   
