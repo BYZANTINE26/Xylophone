@@ -1,0 +1,2 @@
+rootProject.name='xylophone'
+include ':app'
