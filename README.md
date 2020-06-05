@@ -15,4 +15,11 @@ The MediaPlayer class is generally useful for playing long duration sounds and t
 
 However, the SoundPool class is more useful when the xylophone needs to produce small sounds continuously . Therefore, I have used SoundPool in my project .
 
-- To build
+- To check android version for SoundPool constructor :-
+'''kotlin
+private val soundPool = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+        SoundPool.Builder().setMaxStreams(7).build()
+    } else {
+        SoundPool(7, AudioManager.STREAM_MUSIC, 0)
+    }
+'''    
