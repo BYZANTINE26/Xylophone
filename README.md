@@ -85,7 +85,9 @@ Check [MainActivity.kt](https://github.com/BYZANTINE26/Xylophone/blob/master/app
 
 # Clone
 
-[clone](https://github.com/BYZANTINE26/Xylophone.git)
+Copy this link
+
+[https://github.com/BYZANTINE26/Xylophone.git](https://github.com/BYZANTINE26/Xylophone.git)
 
 # Screenshots
 
